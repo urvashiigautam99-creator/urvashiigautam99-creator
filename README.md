@@ -1,37 +1,45 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Urvashi+Gautam+%F0%9F%91%8B;ML+Engineer+%7C+Data+Science+Enthusiast;AWS+Certified+Developer;LeetCode+Knight+%E2%9A%94%EF%B8%8F+Top+5%25+Globally" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Urvashi%20Gautam&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%7C%20Data%20Science%20%7C%20AWS%20Certified&descAlignY=55&descAlign=50" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=⚔️+LeetCode+Knight+%7C+Top+5%25+Globally;☁️+AWS+Certified+Developer+%26+AI+Practitioner;🌟+Google+Developer+Program+Premium+Member;🇮🇳+SIH+2025+National+Level+Participant" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=urvashiigautam99-creator&color=a855f7&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=urvashiigautam99-creator&color=a855f7&style=for-the-badge&label=Profile+Views)
 
 </div>
 
 ---
 
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
 ### 👩‍💻 About Me
 
 - 🎓 Final-year **CSE student** at Parul University, Vadodara
-- 🤖 Specialising in **Machine Learning, Predictive Analytics & Full-Stack Data Science**
-- ⚔️ **LeetCode Knight** — Rating 1,879 | Top 5% globally in DSA
-- ☁️ **AWS Certified Developer – Associate** & **AWS Certified AI Practitioner**
-- 🌟 **Google Developer Program — Premium Tier Member** | Google I/O 2026 Registered
+- 🤖 Specialising in **ML, Predictive Analytics & Data Science**
+- ⚔️ **LeetCode Knight** — Rating 1,879 | Top 5% globally
+- ☁️ **AWS Certified Developer – Associate**
+- 🌟 **Google Developer Program — Premium Tier Member**
+- 🔭 Currently exploring **MLOps & Cloud Deployments**
 - 📍 Vadodara, Gujarat, India
+- 📫 Reach me at **urvashiigautam99@gmail.com**
+
+<br clear="right"/>
 
 ---
 
-### 🏆 Achievements
+### 🏆 Achievements & Certifications
 
 <div align="center">
 
-| 🥇 Achievement | 📋 Details |
-|---|---|
+| 🏅 Achievement | 📋 Details |
+|:---|:---|
 | 🇮🇳 Smart India Hackathon 2025 | Participant — National Level (Government of India) |
 | ⚔️ LeetCode Knight | Rating 1,879 · Top 5% Globally |
 | ☁️ AWS Certified Developer | Associate Level |
 | 🤖 AWS Certified AI Practitioner | Amazon Web Services |
-| 🌐 Google Developer Program | Premium Tier Member |
+| 🌐 Google Developer Program | Premium Tier Member · I/O 2026 Registered |
 | 🧠 AI Fundamentals | IBM SkillsBuild |
 | 🔗 Hashgraph Developer | Hedera Certified |
 
@@ -41,12 +49,14 @@
 
 ### 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages & Tools**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -63,14 +73,28 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
+</div>
+
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=urvashiigautam99-creator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urvashiigautam99-creator&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=urvashiigautam99-creator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urvashiigautam99-creator&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=urvashiigautam99-creator&theme=tokyonight&hide_border=true&border_radius=10" width="49%"/>
+
+</div>
+
+---
+
+### 🏆 LeetCode Stats
+
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/urvashigautam?theme=dark&font=Fira%20Code&ext=contest&border=0)
 
 </div>
 
@@ -82,11 +106,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urvashi-gautam-31a78a217)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/urvashigautam10/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/urvashiigautam99-creator)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/urvashig)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:urvashiigautam99@gmail.com)
 
 </div>
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%92%9C;Let's+build+something+amazing+together!" alt="footer" />
-</div>
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+
