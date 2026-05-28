@@ -18,7 +18,7 @@
 
 - 🎓 Final-year **CSE student** at Parul University, Vadodara
 - 🤖 Specialising in **ML, Predictive Analytics & Data Science**
-- ⚔️ **LeetCode Knight** — Rating 1,879 | Top 5% globally
+- ⚔️ **LeetCode Knight** — Rating 1,906 
 - ☁️ **AWS Certified Developer – Associate**
 - 🌟 **Google Developer Program — Premium Tier Member**
 - 🔭 Currently exploring **MLOps & Cloud Deployments**
@@ -35,8 +35,8 @@
 
 | 🏅 Achievement | 📋 Details |
 |:---|:---|
-| 🇮🇳 Smart India Hackathon 2025 | Participant — National Level (Government of India) |
-| ⚔️ LeetCode Knight | Rating 1,879 · Top 5% Globally |
+| 🇮🇳 Smart India Hackathon 2025 | Participant|
+| ⚔️ LeetCode Knight | Rating 1,906 · Top 4.29% Globally |
 | ☁️ AWS Certified Developer | Associate Level |
 | 🤖 AWS Certified AI Practitioner | Amazon Web Services |
 | 🌐 Google Developer Program | Premium Tier Member · I/O 2026 Registered |
@@ -77,24 +77,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=urvashiigautam99-creator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urvashiigautam99-creator&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=urvashiigautam99-creator&theme=tokyonight&hide_border=true&border_radius=10" width="49%"/>
-
-</div>
-
----
-
-### 🏆 LeetCode Stats
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-urvashigautam-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/urvashigautam)
-![LeetCode Rating](https://img.shields.io/badge/Rating-1879-red?style=for-the-badge)
-![LeetCode Rank](https://img.shields.io/badge/Knight-Top%205%25-gold?style=for-the-badge)
 
 ### 🔗 Connect with Me
 
