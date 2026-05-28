@@ -92,13 +92,9 @@
 
 ### 🏆 LeetCode Stats
 
-<div align="center">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/urvashigautam?theme=dark&font=Fira%20Code&ext=contest&border=0)
-
-</div>
-
----
+[![LeetCode](https://img.shields.io/badge/LeetCode-urvashigautam-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/urvashigautam)
+![LeetCode Rating](https://img.shields.io/badge/Rating-1879-red?style=for-the-badge)
+![LeetCode Rank](https://img.shields.io/badge/Knight-Top%205%25-gold?style=for-the-badge)
 
 ### 🔗 Connect with Me
 
